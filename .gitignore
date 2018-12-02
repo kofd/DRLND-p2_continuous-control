@@ -1,0 +1,5 @@
+.ipy*
+.idea*
+unity-env*
+__*
+.DS*
